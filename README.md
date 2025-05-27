@@ -9,7 +9,9 @@ Os laboratórios e exercícios propostos utilizaram dados gerados apenas para fi
 ## Parte 1 - Business Intelligence e Análise de Dados
 
 ### 1. Introdução
+Introdução a Business Intelligence, instalação e ambientação com Power BI.
 ### 2. Primeiros passos com Microsoft Power BI
+Elaborado o primeiro dashboard, de Vendas Globais, como objetivo do Laboratório 1.
 ### 3. Modelagem, Relacionamentos e DAX
 ### 4. Power BI para Análise de Dados de Maketing
 ### 5. Power BI para Análise de Dados Comerciais
